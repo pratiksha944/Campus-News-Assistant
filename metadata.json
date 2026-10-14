@@ -1,0 +1,6 @@
+{
+  "name": "CampusPulse - Student News & Campus Assistant",
+  "description": "Modern campus news and intelligence dashboard for college students featuring latest news, official notices, hackathons, events, placements, and an AI campus advisor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
